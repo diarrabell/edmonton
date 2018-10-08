@@ -10,7 +10,7 @@
 			<nav>
 				<ul>
 					<li><a href="index.php">Web Dev Students</a></li>
-					<li><a href="about.php">About These Web Dev Students</a></li>
+					<li><a href="about.php">About The Web Dev Students</a></li>
 				</ul>
 			</nav>
 		</header>
