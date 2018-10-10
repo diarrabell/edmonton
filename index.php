@@ -34,6 +34,7 @@
 
 			<section class="Margaret">
 				<h2>Margaret</h2>
+				<div class="odd-duck">The Odd Duck Graduate!</div><!-- .odd-duck -->
 				<div class="section__content">
 					<p>Margaret Thurston was a Development and Sustainability major. Unlike Jayda and Diarra, she's a graduate. She graduated in 2018. She's a member of Students for a Democratic Society, Greenspace, and Partners in Reading.</p>
 					<figure><img src="images/margaret.jpg" alt="Margaret"/></figure>

@@ -39,6 +39,7 @@
 
 			<section class="Margaret">
 				<h2>Margaret Thurston</h2>
+				<div class="odd-duck">The Odd Duck Graduate!</div><!-- .odd-duck -->
 				<div class="section__content">
 					<div class="text">
 						<h3>About Me</h3>
