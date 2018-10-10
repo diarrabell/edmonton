@@ -6,12 +6,19 @@
 	<body>
 		<header>
 			<h1>We are Web Development Students!</h1>
-			<nav>
-				<ul>
-					<li><a href="index.php">Web Dev Students</a></li>
-					<li><a href="about.php">About The Web Dev Students</a></li>
-				</ul>
-			</nav>
+
+			<button><a href="about.php">Read More!</a></button>
+
+			<img src="images/spider.jpg" alt="Spider Web">
+
+			<!-- This is what was here before:
+				<nav>
+					<ul>
+						<li><a href="index.php">Web Dev Students</a></li>
+						<li><a href="about.php">About The Web Dev Students</a></li>
+					</ul>
+				</nav>
+			-->
 		</header>
 		<main>
 			<section>

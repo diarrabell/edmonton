@@ -6,12 +6,7 @@
 	<body>
 		<header>
 			<h1> About the Web Development Students</h1>
-			<nav>
-				<ul>
-					<li><a href="index.php">Web Dev Students</a></li>
-					<li><a href="about.php">About The Web Dev Students</a></li>
-				</ul>
-			</nav>
+			<button><a href="index.php">Back to Homepage</a></button>
 		</header>
 		<main>
 			<section>
