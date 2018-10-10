@@ -8,26 +8,10 @@ header {
 	justify-content: space-between;
 }
 
-/******************************
-Homepage
-******************************/
-
-
 .section__content {
 	display: flex;
 	justify-content: space-between;
 }
-
-.homepage .bottom-row {
-	display: flex;
-}
-
-
-
-
-/******************************
-Elements I define
-******************************/
 
 .button {
 	background-color: blue;
@@ -40,9 +24,19 @@ Elements I define
 	color: white;
 }
 
+/******************************
+Specific sections
+******************************/
+
+.hero {
+	text-align: center;
+}
+
+.homepage .bottom-row {
+	display: flex;
+}
+
 #last-button-div {
 	text-align: center;
 }
 
-/******************************
-******************************/

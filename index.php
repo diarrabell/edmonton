@@ -9,9 +9,9 @@
 			<button class="button"><a href="about.php">Read More!</a></button>
 		</header>
 
-		<figure>
+		<figure class="hero">
 			<img src="images/spider.jpg" alt="Spider Web">
-		</figure>
+		</figure><!-- .hero -->
 		
 		<main>
 			<section>
