@@ -5,6 +5,7 @@ Both pages
 
 header {
 	display: flex;
+	justify-content: space-between;
 }
 
 /******************************
@@ -14,6 +15,7 @@ Homepage
 
 .homepage .section__content {
 	display: flex;
+	justify-content: space-between;
 }
 
 .homepage .bottom-row {
@@ -30,7 +32,6 @@ Elements I define
 .button {
 	background-color: blue;
 	border: 2px solid black;
-	justify-content: flex-end;
 }
 
 .button a {
