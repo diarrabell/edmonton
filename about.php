@@ -8,7 +8,7 @@
 			<h1> About the Web Development Students</h1>
 			<button class="button"><a href="index.php">Back to Homepage</a></button>
 		</header>
-		<main>
+		<article>
 			<section class="Jayda">
 				<h2>Jayda Medina</h2>
 				<div class="section__content">
@@ -54,6 +54,6 @@
 			<section id="last-button-div">
 				<button class="button"><a href="index.php">Back to Homepage</a></button>
 			</section>
-		</main>
+		</article>
 	</body><!-- .about -->
 </html>

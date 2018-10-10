@@ -13,7 +13,7 @@
 			<img src="images/spider.jpg" alt="Spider Web">
 		</figure><!-- .hero -->
 		
-		<main>
+		<article>
 			<section class="Jayda">
 				<h2>Jayda</h2>
 				<div class="section__content">
@@ -47,7 +47,7 @@
 			</section><!-- .bottom-row -->
 
 
-		</main>
+		</article>
 	</body><!-- .homepage -->
 </html>
 

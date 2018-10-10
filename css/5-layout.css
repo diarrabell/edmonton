@@ -14,7 +14,7 @@ header {
 }
 
 .button {
-	background-color: blue;
+	background-color: #AD8965;
 	border: 2px solid black;
 }
 
@@ -22,10 +22,34 @@ header {
 	text-decoration: none;
 	padding: 20px;
 	color: white;
+	font-size: 18px;
 }
 
 /******************************
-Specific sections
+Repeatable sections
+******************************/
+
+.Jayda, .Diarra, .Margaret {
+	padding: 10px;
+	border: 2px solid black;
+}
+
+.Jayda {
+	background-color: #C1C2BC;
+}
+
+.Diarra {
+	background-color: #C1C2BC;
+}
+
+.Margaret {
+	background-color: #F0B358;
+}
+
+
+
+/******************************
+Unique sections
 ******************************/
 
 .hero {
