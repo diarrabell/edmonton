@@ -3,7 +3,7 @@
 	<?php 
 		$title = "Web Dev Students";
 		include "includes/head.php";?>
-	<body class="homepage">
+	<body class="homepage" class="container">
 		<header>
 			<h1>We are Web Development Students!</h1>
 
@@ -17,7 +17,7 @@
 		<main>
 			<section>
 				<h2>Jayda</h2>
-				<div class="section__content">
+				<div class="section__content" class="float-left">
 					<p>Jayda Medina is a Computer Science major. She will graduate in 2021. Her extracurriculars include being a member of Strong Jugglers, and TOOP, a student run theatre company.</p>
 					<img src="images/jayda.jpg" alt="Jayda"/>
 				</div><!-- .section__content -->

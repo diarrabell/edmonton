@@ -3,7 +3,7 @@
 	<?php 
 		$title = "About the Students";
 		include "includes/head.php";?>
-	<body>
+	<body class="about" class="container">
 		<header>
 			<h1> About the Web Development Students</h1>
 			<button><a href="index.php">Back to Homepage</a></button>

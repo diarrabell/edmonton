@@ -18,5 +18,5 @@ Our files are as follows:
 -- Variables - defines any variables in CSS (if used).
 -- Base - contains styles that are applied generally to the whole document, including fonts etc. (top of document) and styles applied to specific HTML elements like H1 and A tags (bottom of document).
 -- Semantic-Reusable - contains any classes I create that have semantic meaning, and are reusable throughout the website (e.g. "media-object" or "search-form__button").
--- Appearance-Reusable - contains any classes I create for appearance purposes, like .loud or .big., that I didn't want to add to the layout. Use sparingly.
+-- Appearance-Reusable - contains any classes that specify appearance, like .loud or .big., that I didn't want to add to the layout. Use sparingly.
 -- Layout -- contains stuff that pertains to specific sections (including the navigation section). Should put "skins" up top (things that apply to multiple sections referencing the OOCSS model), and specific sections below.
