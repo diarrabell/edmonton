@@ -6,7 +6,7 @@
 	<body class="homepage">
 		<header>
 			<h1>We are Web Development Students!</h1>
-			<button class="button"><a href="about.php">Read More!</a></button>
+			<div class="button"><a href="about.php">Read More!</a></div>
 		</header>
 
 		<figure class="hero">
@@ -44,7 +44,7 @@
 
 			<section class="bottom-row">
 				<p>All of these students have taken CSC170 and are currently taking CSC174. Jayda, Margaret and Diarra welcome you!</p>
-				<button class="button"><a href = "about.php">Learn More</a></button>
+				<div class="button"><a href = "about.php">Learn More</a></div>
 			</section><!-- .bottom-row -->
 
 

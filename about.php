@@ -6,7 +6,7 @@
 	<body class="about">
 		<header>
 			<h1> About the Web Development Students</h1>
-			<button class="button"><a href="index.php">Back to Homepage</a></button>
+			<div class="button"><a href="index.php">Back to Homepage</a></div>
 		</header>
 		<article>
 			<section class="Jayda">
@@ -53,7 +53,7 @@
 
 
 			<section id="last-button-div">
-				<button class="button"><a href="index.php">Back to Homepage</a></button>
+				<div class="button"><a href="index.php">Back to Homepage</a></div>
 			</section>
 		</article>
 	</body><!-- .about -->
