@@ -6,7 +6,6 @@
 	<body class="homepage">
 		<header>
 			<h1>We are Web Development Students!</h1>
-
 			<button class="button"><a href="about.php">Read More!</a></button>
 		</header>
 
