@@ -37,7 +37,7 @@
 			</section>
 			<section class="bottom-row">
 				<p>All of these students have taken CSC170 and are currently taking CSC174. Jayda, Margaret and Diarra welcome you!</p>
-				<button><a href = "about.php">Learn More</a></button>
+				<button class="button"><a href = "about.php">Learn More</a></button>
 			</section><!-- .bottom-row -->
 		</main>
 	</body><!-- .homepage -->
