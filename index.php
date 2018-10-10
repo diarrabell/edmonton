@@ -27,8 +27,8 @@
 				<img src="images/jayda.jpg" alt="Jayda"/>
 			</section>
 			<section>
-				<img src="images/diarra.jpg" alt="Diarra"/>
 				<h2>Diarra</h2>
+				<img src="images/diarra.jpg" alt="Diarra"/>
 				<p>Diarra Bell is a Computer Science major, with a minor in Japanese. She will graduate in 2020. She is a member of The Pact and in her free time, volunteers for Women in Computing.</p>
 			</section>
 			<section>
