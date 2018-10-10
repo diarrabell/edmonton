@@ -1,9 +1,8 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>Web Dev Students</title>
-	</head>
+	<?php 
+		$title = "Web Dev Students";
+		include "includes/head.php";?>
 	<body>
 		<header>
 			<h1>We are Web Development Students!</h1>
