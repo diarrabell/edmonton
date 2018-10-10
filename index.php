@@ -14,31 +14,39 @@
 		</figure><!-- .hero -->
 		
 		<main>
-			<section>
+			<section class="Jayda">
 				<h2>Jayda</h2>
 				<div class="section__content">
 					<p>Jayda Medina is a Computer Science major. She will graduate in 2021. Her extracurriculars include being a member of Strong Jugglers, and TOOP, a student run theatre company.</p>
 					<figure><img src="images/jayda.jpg" alt="Jayda"/></figure>
 				</div><!-- .section__content -->
-			</section>
-			<section>
+			</section><!-- .Jayda -->
+
+
+			<section class="Diarra">
 				<h2>Diarra</h2>
 				<div class="section__content">
 					<figure><img src="images/diarra.jpg" alt="Diarra"/></figure>
 					<p>Diarra Bell is a Computer Science major, with a minor in Japanese. She will graduate in 2020. She is a member of The Pact and in her free time, volunteers for Women in Computing.</p>
 				</div><!-- .section__content -->
-			</section>
-			<section>
+			</section><!-- .Diarra -->
+
+
+			<section class="Margaret">
 				<h2>Margaret</h2>
 				<div class="section__content">
 					<p>Margaret Thurston was a Development and Sustainability major. Unlike Jayda and Diarra, she's a graduate. She graduated in 2018. She's a member of Students for a Democratic Society, Greenspace, and Partners in Reading.</p>
 					<figure><img src="images/margaret.jpg" alt="Margaret"/></figure>
 				</div><!-- .section__content -->
-			</section>
+			</section><!-- .Margaret -->
+
+
 			<section class="bottom-row">
 				<p>All of these students have taken CSC170 and are currently taking CSC174. Jayda, Margaret and Diarra welcome you!</p>
 				<button class="button"><a href = "about.php">Learn More</a></button>
 			</section><!-- .bottom-row -->
+
+
 		</main>
 	</body><!-- .homepage -->
 </html>

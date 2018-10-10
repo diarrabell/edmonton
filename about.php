@@ -9,7 +9,7 @@
 			<button class="button"><a href="index.php">Back to Homepage</a></button>
 		</header>
 		<main>
-			<section>
+			<section class="Jayda">
 				<h2>Jayda Medina</h2>
 				<div class="section__content">
 					<div class="text">
@@ -20,8 +20,10 @@
 					</div><!-- .text -->
 					<figure><img src="images/jayda.jpg" alt="Jayda"/></figure>
 				</div><!-- .section-content -->
-			</section>
-			<section>
+			</section><!-- .Jayda -->
+
+
+			<section class="Diarra">
 				<h2>Diarra Bell</h2>
 				<div class="section__content">
 					<div class="text">
@@ -32,8 +34,10 @@
 					</div><!-- .text -->
 					<figure><img src="images/diarra.jpg" alt="Diarra"/></figure>
 				</div><!-- .section-content -->
-			</section>
-			<section>
+			</section><!-- .Diarra -->
+
+
+			<section class="Margaret">
 				<h2>Margaret Thurston</h2>
 				<div class="section__content">
 					<div class="text">
@@ -44,7 +48,9 @@
 					</div><!-- .text -->
 					<figure><img src="images/margaret.jpg" alt="Margaret"/></figure>
 				</div><!-- .section-content -->
-			</section>
+			</section><!-- .Margaret -->
+
+
 			<section id="last-button-div">
 				<button class="button"><a href="index.php">Back to Homepage</a></button>
 			</section>
