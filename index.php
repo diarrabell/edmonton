@@ -16,7 +16,7 @@
 		<main>
 			<section>
 				<h2>Jayda</h2>
-				<div class="section__content" class="float-left">
+				<div class="section__content">
 					<p>Jayda Medina is a Computer Science major. She will graduate in 2021. Her extracurriculars include being a member of Strong Jugglers, and TOOP, a student run theatre company.</p>
 					<figure><img src="images/jayda.jpg" alt="Jayda"/></figure>
 				</div><!-- .section__content -->
