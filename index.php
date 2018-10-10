@@ -3,11 +3,11 @@
 	<?php 
 		$title = "Web Dev Students";
 		include "includes/head.php";?>
-	<body class="homepage" class="container">
+	<body class="homepage">
 		<header>
 			<h1>We are Web Development Students!</h1>
 
-			<button><a href="about.php">Read More!</a></button>
+			<button class="button"><a href="about.php">Read More!</a></button>
 		</header>
 
 		<figure>
@@ -41,7 +41,7 @@
 				<button><a href = "about.php">Learn More</a></button>
 			</section><!-- .bottom-row -->
 		</main>
-	</body>
+	</body><!-- .homepage -->
 </html>
 
 

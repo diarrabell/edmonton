@@ -3,10 +3,10 @@
 	<?php 
 		$title = "About the Students";
 		include "includes/head.php";?>
-	<body class="about" class="container">
+	<body class="about">
 		<header>
 			<h1> About the Web Development Students</h1>
-			<button><a href="index.php">Back to Homepage</a></button>
+			<button class="button"><a href="index.php">Back to Homepage</a></button>
 		</header>
 		<main>
 			<section>
@@ -34,5 +34,5 @@
 				<img src="images/margaret.jpg" alt="Margaret"/>
 			</section>
 		</main>
-	</body>
+	</body><!-- .about -->
 </html>

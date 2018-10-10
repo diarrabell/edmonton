@@ -1,17 +1,16 @@
 /******************************
-Everything
+Both pages
 ******************************/
-.container {
-	color: red;
+
+
+header {
+	display: flex;
 }
 
 /******************************
 Homepage
 ******************************/
 
-.homepage header {
-	display: flex;
-}
 
 .homepage .section__content {
 	display: flex;
@@ -25,7 +24,22 @@ Homepage
 
 
 /******************************
+Elements I define
 ******************************/
+
+.button {
+	background-color: blue;
+	border: 2px solid black;
+	justify-content: flex-end;
+}
+
+.button a {
+	text-decoration: none;
+	padding: 20px;
+	color: white;
+}
+
+
 
 /******************************
 ******************************/
