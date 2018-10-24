@@ -8,6 +8,6 @@ Margaret isn't. Under each student is an about me that talks about their past an
 ## Taxonomy 
 The scope of the site are the three web dev students. Under their name (h1) for the about page is an "About me" title (h3) and a "college" title (h3). We use sections to hold each students info, and div as we get more specific and assign classes to information. 
 ##Choreography
-Students are ordered from furthest away class year to closest, so that the odd student out is mentioned last, making it easier to spot the difference between her and the other 2 students.
+Students are ordered from furthest away class year to closest, so that the odd student out is mentioned last and has the only out doors picture, making it easier to spot the difference between her and the other 2 students.
 For index, the Z points are the header (left of page), the picture of the first student (right), the pic of the second (left), and the pic of the third (right).
 For about, the F points are the student names (left), and the student pictures (right).
