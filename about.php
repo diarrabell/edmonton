@@ -52,7 +52,7 @@
 			</section><!-- .Margaret -->
 
 
-			<section id="last-button-div">
+			<section id="very-last-button-section">
 				<div class="button"><a href="index.php">Back to Homepage</a></div>
 			</section>
 		</article>
