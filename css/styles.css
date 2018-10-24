@@ -1,8 +1,19 @@
 /*
-CSS architecture: inspired by both SMACSS (for base and layout names) and ITCSS (going from general to specific)
+CSS architecture:
+inspired by both SMACSS (for base and layout names) and ITCSS (going from general to specific).
+
+Sections are:
 -- Base: contains base styles that are applied generally to the whole document, including fonts etc. (top of document) and styles applied to specific HTML elements like H1 and A tags (bottom of document).
 -- Layout repeatable: any styles that are applied to repeatable sections -- either on both webpages or multiple times in a webpage.
 -- Unique sections: applied to specific sections that don't repeat.
+
+
+
+Color choices:
+-- The gray behind Jayda and Diarra matches the color of one of the ships in the picture.
+-- The yellow behind Margaret matches the duck in the picture.
+-- The black behind the hero image is like a graduation hat
+-- The purple on "the odd duck graduate" is to stand out, and the buttons match this color.
 
 */
 
@@ -36,7 +47,7 @@ header {
 }
 
 .button {
-	background-color: #AD8965;
+	background-color: purple;
 	border: 2px solid black;
 	padding: 20px;
 	max-width: 180px;
@@ -86,7 +97,7 @@ Unique sections
 	padding-left: 209px;
 	padding-top: 100px;
 	padding-bottom: 100px;
-	background-color: white;
+	background-color: black;
 }
 
 
