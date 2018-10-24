@@ -1,3 +1,12 @@
+/*
+CSS architecture: inspired by both SMACSS (for base and layout names) and ITCSS (going from general to specific)
+-- Base: contains base styles that are applied generally to the whole document, including fonts etc. (top of document) and styles applied to specific HTML elements like H1 and A tags (bottom of document).
+-- Layout repeatable: any styles that are applied to repeatable sections -- either on both webpages or multiple times in a webpage.
+-- Unique sections: applied to specific sections that don't repeat.
+
+*/
+
+
 
 /******************************
 Base
@@ -11,7 +20,7 @@ body {
 
 
 /******************************
-Both pages
+Layout repeatable
 ******************************/
 
 
@@ -41,10 +50,6 @@ header {
 	font-size: 18px;
 	text-align: center;
 }
-
-/******************************
-Repeatable sections
-******************************/
 
 .Jayda, .Diarra, .Margaret {
 	padding: 10px;
