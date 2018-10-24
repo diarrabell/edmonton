@@ -5,7 +5,7 @@
 		include "includes/head.php";?>
 	<body class="about">
 		<header>
-			<h1> About the Web Development Students</h1>
+			<h1> About the Undergrads and Graduate</h1>
 			<div class="button"><a href="index.php">Back to Homepage</a></div>
 		</header>
 		<article>

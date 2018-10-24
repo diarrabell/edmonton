@@ -1,11 +1,11 @@
 <!doctype html>
 <html lang="en">
 	<?php 
-		$title = "Web Dev Students";
+		$title = "Two Undergrads and Their Trusty Grad";
 		include "includes/head.php";?>
 	<body class="homepage">
 		<header>
-			<h1>We are Web Development Students!</h1>
+			<h1>Two Undergrads and Their Trusty Grad!</h1>
 			<div class="button"><a href="about.php">Read More!</a></div>
 		</header>
 

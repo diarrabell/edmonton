@@ -4,7 +4,7 @@ http://csc174.org/assignment07/edmonton
 ## Ontology
 All students who've taken csc170 and are taking 174. 
 Jayda and Diarra are undergrad and computer science majors,
-Margaret isn't. Under each student is an about me that talks about their past and interests and a college section that talks about their time here. 
+Margaret is a graduate. Under each student is an about me that talks about their past and interests and a college section that talks about their time here. 
 ## Taxonomy 
 The scope of the site are the three web dev students. Under their name (h1) for the about page is an "About me" title (h3) and a "college" title (h3). We use sections to hold each students info, and div as we get more specific and assign classes to information. 
 ##Choreography
