@@ -52,15 +52,15 @@ Repeatable sections
 }
 
 .Jayda {
-	background-color: #C1C2BC;
+	background-color: #C6CFD4;
 }
 
 .Diarra {
-	background-color: #C1C2BC;
+	background-color: #C6CFD4;
 }
 
 .Margaret {
-	background-color: #F0B358;
+	background-color: #FCC900;
 }
 
 .odd-duck {
@@ -74,10 +74,16 @@ Repeatable sections
 Unique sections
 ******************************/
 
-.hero {
+
+#hero {
 	margin-left: 0px;
 	margin-right: 0px;
+	padding-left: 209px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	background-color: white;
 }
+
 
 .bottom-row {
 	display: flex;

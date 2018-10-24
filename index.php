@@ -9,8 +9,8 @@
 			<div class="button"><a href="about.php">Read More!</a></div>
 		</header>
 
-		<figure class="hero">
-			<img src="images/spider.jpg" alt="Spider Web">
+		<figure id="hero">
+			<img src="images/floating-duck.jpg" alt="Graduated Duck">
 		</figure><!-- .hero -->
 		
 		<article>
